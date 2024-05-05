@@ -29,4 +29,5 @@ create_file dir2/navi/file1.sh
 create_file dir2/nandhu/file1.sh
 create_file dir2/nani/file1.sh
 
-
+echo "first testing"
+echo "second testing"
